@@ -13,10 +13,4 @@ This custom node is a highly modified and enhanced fork of the original Ideogram
 
 Massive thanks to Kijai for providing the foundational Python logic and the brilliant Bounding Box UI framework! 
 
-**Changes in the Kora version include:**
-* Completely independent CSS architecture to prevent UI conflicts.
-* Integrated Sketch Canvas with opacity and blur controls.
-* Custom Eyedropper tool (Alt + Click).
-* Hotkey optimizations for faster workflow.
-
 This project is licensed under the GNU General Public License v3.0, in accordance with the original source code.
