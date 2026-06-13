@@ -1,4 +1,6 @@
 # ComfyUI Ideogram Mask Builder (Kora)
+<img width="619" height="584" alt="Screenshot 2026-06-13 145419" src="https://github.com/user-attachments/assets/acd7ccb1-9710-41a7-b2b9-c3db0f9724cc" />
+
 
 Advanced custom node for ComfyUI. A complete mini-editor built directly into the node interface for drawing masks, sketches, and generating Ideogram prompts.
 
