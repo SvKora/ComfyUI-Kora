@@ -5,7 +5,7 @@ Advanced custom node for ComfyUI. A complete mini-editor built directly into the
 ## Features
 * **Integrated Sketching:** Draw sketches directly on the node with customizable brush size, blur, and opacity.
 * **Eyedropper Tool:** Pick colors directly from your image using `Alt + Click`.
-* **Hotkeys:** Quick access to tools (e.g., press `S` to add a sketch, `H` to hide boxes, `[ ]` to change brush size).
+* **Hotkeys:** Quick access to tools (e.g., press `S` to add a sketch, `B` to add mask for box, `[ ]` to change brush size, `H` to hide boxes,).
 * **Independent Styling:** Fully isolated CSS to prevent conflicts with other UI extensions.
 
 ## Acknowledgements & Credits
