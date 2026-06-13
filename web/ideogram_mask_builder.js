@@ -961,7 +961,10 @@ app.registerExtension({
                 if (path.points.length === 1) skCtx.lineTo(path.points[0].x * logW() + 0.1, path.points[0].y * logH() + 0.1);
                 skCtx.stroke();
             }
+            ctx.save();
+            ctx.setTransform(1, 0, 0, 1, 0, 0); 
             ctx.drawImage(skCanvas, 0, 0, bw, bh);
+            ctx.restore();
         }
 
         if (node._hideBoxes || node._isSketchMode) return;                              // H: temporary background-only view
